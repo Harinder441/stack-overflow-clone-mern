@@ -1,0 +1,29 @@
+.ques-detail-page{
+    width: 100%;
+}
+.ques-details-container p{
+margin: 0;
+
+}
+.ques-details-container{
+    
+
+}
+.ques-details-container-2 {
+display: flex;
+background-color: rgb(191, 191, 207);
+}
+.ques-details-container-2 .body{
+    width: 100%;
+}
+.ques-details-container-2 .body-tags{
+    display: flex;
+}
+.ques-details-container-2 .body-btn-info{
+    display: flex; 
+    width: 100%;
+    justify-content: space-between;  
+}
+.ques-details-container-2 .body-info div{
+    display: flex;
+}
